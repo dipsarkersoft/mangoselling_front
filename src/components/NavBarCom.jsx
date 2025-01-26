@@ -25,8 +25,8 @@ export const NavBarCom = () => {
 <div className="container">
       <nav className="navbar navbar-expand-lg navbar-light bg-light shadow-sm sticky-top">
       <div className="container-fluid">
-            <Link className="navbar-brand" href="#">
-              BrandName
+            <Link className="navbar-brand" to={'/'}>
+              RAJSHAHIR AM
             </Link>
             <button
               className="navbar-toggler"
