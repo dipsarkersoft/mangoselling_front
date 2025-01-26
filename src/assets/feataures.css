@@ -1,0 +1,16 @@
+
+.circolour{
+    background: #ffb524;
+}
+
+
+.featurs-icon {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 120px;
+    height: 120px;
+    margin: 0 auto;
+    background-color: #ffb524;
+    /* Centers it horizontally */
+  }

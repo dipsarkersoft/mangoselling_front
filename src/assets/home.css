@@ -1,0 +1,35 @@
+.vesitable-img {
+    overflow: hidden;
+    transition: 0.5s;
+    border-radius: 10px 10px 0 0;
+}
+
+.vesitable-img img:hover {
+    transform: scale(1.2);
+}
+
+
+.vesitable-img img {
+    transition: 0.5s;
+}
+
+.vesitable-item:hover {
+    box-shadow: 0 0 55px rgba(0, 0, 0, 0.4);
+}
+
+.vesitable-item {
+    height: 100%;
+    transition: 0.5s;
+}
+
+
+.counter h4{
+
+    font-size: 30px;
+    color: green;
+    font-weight: 600;
+
+}
+.counter svg{
+    color: #ffb524;
+}

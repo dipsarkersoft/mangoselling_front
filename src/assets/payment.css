@@ -1,0 +1,23 @@
+.status-page {
+    height: 100vh;
+  }
+  
+  .success-page .alert {
+    background-color: #d4edda;
+    color: #155724;
+  }
+  
+  .failed-page .alert {
+    background-color: #f8d7da;
+    color: #721c24;
+  }
+  
+  .neutral-page .alert {
+    background-color: #d1ecf1;
+    color: #0c5460;
+  }
+  
+  .btn {
+    font-size: 1.2rem;
+  }
+  
